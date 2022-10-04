@@ -1,2 +1,2 @@
 # Unlit-Unity
-Unlit Shader for Unity Engine
+Unlit Shader with transparency for Unity Engine
